@@ -1,3 +1,4 @@
 This is my second file
 
-
+We are testing diff command
+here too..
