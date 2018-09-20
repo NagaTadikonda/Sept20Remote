@@ -1,3 +1,5 @@
+merging feat1 branch into master
+
 This a new file we are creating.
 
 modify the text doc
