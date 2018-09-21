@@ -7,4 +7,4 @@ modify the text doc
 
 I modifying the document in github
 
-
+We are testing branch merging. This was added on feat1 branch now.
