@@ -2,3 +2,5 @@ This is my second file
 
 We are testing diff command
 here too..
+
+We are adding this in Github. and recreating the file merge conflict.
