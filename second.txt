@@ -3,6 +3,11 @@ This is my second file
 We are testing diff command
 here too..
 
+
 We are adding conflict with github
 
 We are adding this in Github. and recreating the file merge conflict.
+
+We are testing Stashing. this was added from feat1 branch
+
+
