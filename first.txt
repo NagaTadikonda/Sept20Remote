@@ -11,3 +11,4 @@ We are testing branch merging. We are in marter branch now
 
 We are testing branch merging. This was added on feat1 branch now.
 
+We are testing Rebase. This wwas added from feat2 branch.
